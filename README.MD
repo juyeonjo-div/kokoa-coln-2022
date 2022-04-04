@@ -1,3 +1,3 @@
-#KoKo clone 2022 Update
+# KoKo clone 2022 Update
 
-css got much better
+HTML & CSS got much fun!!!
